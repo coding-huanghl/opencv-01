@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\software\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\software\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\software\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\software\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  opencv-001.vcxproj -> C:\Users\86183\Desktop\课程配套源代码\课程配套源代码\opencv-001\x64\Debug\opencv-001.exe
+  opencv-001.vcxproj -> C:\Users\86183\Desktop\课程配套源代码\课程配套源代码\opencv-001\x64\Debug\opencv-001.pdb (Full PDB)
